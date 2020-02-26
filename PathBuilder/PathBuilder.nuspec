@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <id>zahnom.PathBuilder</id>
+    <version>1.0.0</version>
+    <title>PathBuilder</title>
+    <authors>Marc Zahno</authors>
+    <owners>Marc Zahno</owners>
     <license type="expression">MIT</license>
-    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
-    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <projectUrl>https://github.com/zahnom/PathBuilder</projectUrl>
+    <description>Helps you getting path strings right.</description>
+    <releaseNotes>Initial release.</releaseNotes>
     <copyright>Copyright 2020</copyright>
-    <tags>Tag1 Tag2</tags>
+    <tags>paths builder strings</tags>
   </metadata>
 </package>
